@@ -1,0 +1,134 @@
+a	(ogólny wykrzyknik wyrażający emocję) 
+akesi	„niesłodkie” zwierzę, jaszczurka 
+ala	nie, zero 
+alasa	polować, zbierać 
+ale/ali	wszystko, każdy, wszechświat 
+anpa	nisko, skromny, zależny, podbić/pokonać, schylać się 
+ante	inny, różny, zmienić 
+anu	lub, albo 
+awen	zachować, zostać, pielęgnować, chronić, kontynuować 
+e	(wskazuje obiekt/dopełnienie) 
+en	i (łączy podmioty) 
+epiku	epicki, super 
+esun	handel, rynek, sklep, wymiana 
+ijo	rzecz 
+ike	zły, zawiły, zbędny 
+ilo	narzędzie, przyrząd, maszyna, urządzenie 
+insa	wnętrze, środek, zawartość, brzuch 
+jaki	brudny, obleśny, toksyczny 
+jan	osoba, ludzie, ludzkość 
+jasima	lustro, odbijać, odwrotnie, na przeciwko 
+jelo	żółty (i jego odcienie) 
+jo	mieć, zawierać, trzymać, nieść 
+kala	ryba, zwierzę morskie 
+kalama	dźwięk, hałas, czytać na głos, wydawać dźwięk 
+kama	nadchodzący, przyszłość, przyszły, zdarzenie 
+kasi	roślina, trawa, zioło, liść, kwiat 
+ken	móc, możliwość 
+kepeken	używać, używając, przy pomocy 
+kijetesantakalu	szop pracz albo inne zwierzę łasicokształtne 
+kili	owoc, warzywo, grzyb 
+kin	też, także 
+kipisi	ciąć, dzielić 
+kiwen	twardy przedmiot, metal, kamień, ciało stałe 
+ko	proszek, glina, półlity 
+kokosila	mówić w języku innym od toki pony w grupie toki ponistów 
+kon	powietrze, esencja, dusza, eteryczny 
+ku	słownik toki pony, wchodzenie w interakcję ze słownikiem toki pony 
+kule	kolor, kolorowy 
+kute	słuchać, słyszeć, ucho 
+la	„jeśli/kiedy” (wprowadza kontekst) 
+lanpan	brać, wziąć, ukraść, dostać 
+lape	sen, spać, odpoczynek 
+laso	niebieski, zielony (i jego odcienie) 
+lawa	głowa, kontrolować, rządzić, główny 
+leko	kwadrat, blok, (schody) 
+len	tkanina, ubranie, pokrowiec 
+lete	zimny, surowy 
+li	(oddziela podm. od czas./przym.) 
+lili	mały, mało, młody, pomniejszyć 
+linja	podłużny, giętki przedmiot, nić, sznur, włos 
+lipu	książka, dokument, papier 
+lon	w, przy, na, u, prawdziwy, istniejący, istnieć 
+luka	dłoń, ręka, ramię 
+lukin	oko, patrzeć, widzieć, szukać 
+lupa	dziura, drzwi, okno 
+ma	ziemia, grunt, na dworze, terytorium 
+mama	rodzic, przodek, twórca, źródło 
+mani	pieniądz; duże, udomowione zwierzę 
+meli	kobieta, żeński, żona 
+meso	przeciętny, średni, środek 
+mi	ja, mnie, my, nas 
+mije	mężczyzna, męski, mąż 
+misikeke	lekarstwo, lek na coś 
+moku	jedzenie, danie, jeść 
+moli	śmierć, umrzeć, umierający 
+monsi	tył, plecy, tyłek 
+monsuta	strach, potwór, straszny 
+mu	(dowolny dźwięk wydawany przez zwierzę)
+mun	księżyc, gwiazda, obiekt na nocnym niebie 
+musi	rozrywkowy, artystyczny, zabawa, gra 
+mute	wiele, dużo, ilość 
+n	em…, hmm… 
+namako	przyprawa, dodatkowy 
+nanpa	liczba, (oznaczenie liczebnika porządkowego) 
+nasa	osobliwy, dziwny, szalony, pijany 
+nasin	ścieżka, droga, reguła, sposób 
+nena	wzgórze, góra, przycisk, wypukłość, nos 
+ni	to, tamto 
+nimi	słowo, wyraz, imię 
+noka	noga, stopa, dół, spód, pod 
+o	(zwrot do kogoś lub wydanie polecenia) 
+oko	oko 
+olin	miłość, kochać, współczucie, sympatia 
+ona	on, ona, ono, go, ją 
+open	rozpocząć, otworzyć, otwarty 
+pakala	niszczyć, psuć, pomyłka, (pospolite przekleństwo) 
+pali	robić, pracować, działać, praca 
+palisa	podłużny, twardy przedmiot, gałąź, kij 
+pan	chleb, ziarno, kukurydza, ryż, pizza 
+pana	dawać, wysyłać, emitować, nadawać 
+pi	(przegrupowuje przymiotniki/przysłówki) 
+pilin	serce, uczucie, dotyk, zmysł 
+pimeja	czarny, ciemny 
+pini	skończyć, koniec, zamknąć 
+pipi	owad, robak, insekt 
+poka	biodro, bok, obok, w pobliżu, koło 
+poki	pudełko, zbiornik, miska, filiżanka, szuflada 
+pona	dobry, łatwy, ulepszać, naprawić 
+pu	oficjalna książka toki pony; coś, co na nią oddziałuje 
+sama	taki sam, podobny, rodzeństwo 
+seli	ciepło, żar, reakcja chemiczna 
+selo	zewnętrze, otulina, skóra, granica 
+seme	co? (do tworzenia pytań)
+sewi	u góry, niebo, boski, święty 
+sike	koło, okrągły, piłka, rok 
+sin	nowy, dodatkowy, świeży, dodatkowy 
+sina	ty, ciebie, wy, was 
+sinpin	twarz, przód, ściana 
+sitelen	obraz, symbol, napis, rysować 
+soko	grzyb 
+sona	wiedza, wiedzieć, umieć 
+soweli	ssak lądowy, zwierzę 
+suli	duży, ważny, rosnąć, powiększyć 
+suno	słońce, światło, jasność, błysk 
+supa	powierzchnia pozioma 
+suwi	słodki, uroczy 
+tan	z, ponieważ, powód, przyczyna 
+taso	ale, jednak, tylko 
+tawa	do, ku, dla, ruch 
+telo	woda, ciecz, nawadniać, czyścić 
+tenpo	czas, moment, raz (np. dwa razy) 
+toki	mówić, mowa, język 
+tomo	dom, pokój, budowla 
+tonsi	niebinarny, nie konformujący do ról płci, (transpłciowy) 
+tu	dwa, dzielić, podzielony 
+unpa	związek seksualny (albo małżeński) 
+uta	usta, wargi 
+utala	wojna, walczyć, wyzwanie 
+walo	biały, jasny 
+wan	jeden, część, zjednoczony 
+waso	ptak, latające stworzenie 
+wawa	mocny, silny 
+weka	nieobecny, daleki, odsunąć, pozbyć się 
+wile	chcieć, potrzeba, pragnienie

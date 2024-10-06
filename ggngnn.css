@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+
+.inline
+{
+    display:inline-block;
+}
+
+.block
+{
+    display: block;
+}
+
+.flex
+{
+    display:flex;
+}
+
+.floatL
+{
+    float: left;
+}
+
+.s100
+{
+    width:100%;
+}
+
+.s50
+{
+    width:49%;
+}
+
+.s25
+{
+    width:24%;
+}
+
+.rightText
+{
+    text-align: right;
+}
+
+.rightDiv
+{
+    margin-left: auto;
+    margin-right: 0px;
+}
+
+.centerText
+{
+    text-align: center;
+}
+
+.centerDiv
+{
+    margin-right:auto;
+    margin-left:auto;
+}
+
+.leftText
+{
+    text-align: left;
+}
+
+.leftDiv
+{
+    margin-left:0;
+    margin-right:auto;
+}
+
+.boldText
+{
+    font-weight: bold;
+}
+
+.whiteText
+{
+    color: white;
+}
+
+.blackText
+{
+    color:black;
+}
+
+.whiteDiv
+{
+    background-color:white;
+}
+
+.greyDiv
+{
+    background-color:grey;
+}
+
+.darkgreyopacityDiv
+{
+    background-color:#4449;
+}
+
+.testDiv
+{
+    height:20%;
+    background-color: grey;
+}
+
+.cleaner
+{
+    clear: both;
+}
+
+.padd05p
+{
+    padding:0.5%;
+}
+
+.padd1p
+{
+    padding:1%;
+}
+
+.padd2p
+{
+    padding:2%;
+}
+
+.noMargin
+{
+    margin:0;
+}
+
+.maxContent
+{
+    width:max-content;
+}
+
+.znikniete
+{
+    display:none;
+}
+
+.smallText
+{
+    font-size: 10px;
+}
+
+.LargeText
+{
+    font-size: large;
+}
+
+.xLargeText
+{
+    font-size: x-large;
+}
+
+.noDecoration
+{
+    text-decoration: none;
+}
+
+.underline
+{
+    text-decoration: underline;
+}
+
+.pointer
+{
+    cursor: pointer;
+}
+
+.greyText
+{
+    color:grey;
+}
+
+.redText
+{
+    color:red;
+}
+
+.op90
+{
+    opacity: 90%;
+}
+
+.purpleText
+{
+    color: #770000;
+    background-color: #110000;
+    width: fit-content;
+    padding: 5px;
+}
+.greenText
+{
+    color:greenyellow;
+    background-color: #002200;
+    width: fit-content;
+    padding: 5px;
+}
+.yellowText
+{
+    color:yellow;
+    background-color: #222200;
+    width: fit-content;
+    padding: 5px;
+}

@@ -1,0 +1,495 @@
+ah	a
+ha	a
+uh	a
+oh	a
+aww	a
+a więc	a
+niepiękne zwierzę	akesi
+gad	akesi
+płaz	akesi
+nie	ala
+żaden	ala
+nic	ala
+nie! (wykrzyknienie)	ala!
+negacja	ala
+zero	ala
+zebranie	alasa
+polowanie	alasa
+zbieranie	alasa
+wszystko	ale/ali
+cokolwiek	ale/ali
+życie	ale/ali
+wszechświat	ale/ali
+wszyscy	ale/ali
+każdy	ale/ali
+kompletny/skończony	ale/ali
+całość	ale/ali
+dół (nisko)	anpa
+niska część czegoś	anpa
+poniżej (czegoś)	anpa
+pod	anpa
+pod (adresem)	anpa
+nisko	anpa
+niski	anpa
+skromność (skromnie)	anpa
+zależny (niesamodzielny/poddany)	anpa
+różnica	ante
+różny	ante
+inaczej	ante
+w innym przypadku	ante
+zmiana	ante
+modyfikacja	ante
+lub	anu
+stały	awen
+stać	awen
+pozostawać	awen
+pozostały	awen
+zatrzymywać	awen
+siedzący	awen
+utrzymywać (np przy życiu)	awen
+utrzymywać (kogoś)	awen
+oddziela bezpośrednio orzeczenie od podmiotu (zrobił [x] Marek)	e
+i	en
+sklep	esun
+rynek	esun
+firma	esun
+przedsiębiorstwo	esun
+handel	esun
+sprzedaż	esun
+kupowanie	esun
+rzecz	ijo
+coś	ijo
+rzeczy	ijo
+sprawy	ijo
+obiektywnie	ijo
+źle	ike
+negatywnie	ike
+zło	ike
+przesada	ike
+(coś) niezdrowe(go)	ike
+biada!	ike!
+niestety	ike
+ojejku!	ike!
+o zgrozo	ike
+coś negatywnego	ike
+pogorszyć coś	ike
+mieć negatywny wpływ	ike
+być złym	ike
+spieprzyć coś	ike
+być do niczego	ike
+nieprzyjemność	ike
+niewygoda	ike
+kiepski	ike
+narzędzie	ilo
+urządzenie	ilo
+maszyna	ilo
+przedmiot przeznaczony do ściśle określonej czynności	ilo
+środek	insa
+centrum	insa
+brzuch	insa
+w środku	insa
+wewnętrzny	insa
+środkowy	insa
+wewnątrz	insa
+wnętrze	insa
+brudny	jaki
+obrzydliwy	jaki
+ohydny	jaki
+o nieprzyjemnej strukturze	jaki
+śmieć	jaki
+zabrudzenie	jaki
+brud	jaki
+plugastwo	jaki
+zanieczyszczenie	jaki
+zanieczyszczony	jaki
+ew... (obrzydzenie)	jaki...
+fuj!	jaki!
+człowiek	jan
+osoba	jan
+ludzie	jan
+ktokolwiek	jan
+ktoś	jan
+stworzenie (rzecz.)	jan
+kogoś	jan
+osobisty	jan
+uosabiać	jan
+personifikacja	jan
+żółty	jelo
+jasny zielony	jelo
+mieć	jo
+zawierać	jo
+posiadać	jo
+posiadanie	jo
+jaszczurka	akesi
+polować	alasa
+zbierać	alasa
+skromny	anpa
+zależny	anpa
+podbić	anpa
+pokonać	ansa
+schylać się	ansa
+inny	ante
+zmienić	ante
+albo	anu
+zachować	awen
+zostać	awen
+pielęgnować	awen
+chronić	awen
+kontynuować	awen
+epicki	epiku
+super	epiku
+wymiana	esun
+zawiły	ike
+przyrząd	ilo
+zawartość	insa
+obleśny	jaki
+toksyczny	jaki
+ludzkość	jan
+lustro	jasima
+odbijać	jasima
+odwrotnie	jasima
+na przeciwko	jasima
+trzymać	jo
+nieść	jo
+ryba	kala
+zwierzę morskie	kala
+coś co pływa	kala
+dźwięk	kalama
+hałas	kalama
+czytać na głos	kalama
+wydawać dźwięk	kalama
+nadchodzący	kama
+przyszłość	kama
+przyszły	kama
+zdarzenie	kama
+roślina	kasi
+trawa	kasi
+zioło	kasi
+liść	kasi
+kwiat	kasi
+móc	ken
+możliwość	ken
+używać	kepeken
+używając	kepeken
+przy pomocy	kepeken
+szop pracz	kijetesantakalu
+łasica	kijetesantakalu
+zwierzę łasicopodobne	kijetesantakalu
+owoc	kili
+warzywo	kili
+grzyb (ogólnie)	kili
+też	kin
+także	kin
+ciąć	kipisi
+dzielić (k)	kipisi
+coś twardego	kiwen
+twardy przedmiot (k)	kiwen
+metal	kiwen
+kamień	kiwen
+ciało stałe	kiwen
+proszek	ko
+glina	ko
+mówić w innym języku niż toki pona	kokosila
+powietrze	kon
+esencja	kon
+dusza	kon
+eteryczny	kon
+słownik toki pony	ku
+kolor	kule
+kolorowy	kule
+słuchać	kute
+słyszeć	kute
+ucho	kute
+brać	lanpan
+wziąć	lanpan
+ukraść	lanpan
+dostać	lanpan
+sen	lape
+spać	lape
+odpoczynek	lape
+niebieski	laso
+zielony	laso
+głowa	lawa
+kontrolować	lawa
+rządzić	lawa
+główny	lawa
+kwadrat	leko
+blok	leko
+schody	leko
+tkanina	len
+ubranie	len
+pokrowiec	len
+zimny	lete
+surowy	lete
+podmiot ... czas/przym	li
+mały	lili
+mało	lili
+młody	lili
+pomniejszyć	lili
+podłużny (l)	linja
+giętki przedmiot	linja
+nić	linja
+sznur	linja
+włos	linja
+książka	lipu
+dokument	lipu
+papier	lipu
+w	lon
+przy	lon
+na	lon
+u	lon
+prawdziwy	lon
+istniejący	lon
+istnieć	lon
+dłoń	luka
+ręka	luka
+ramię	luka
+oko	lukin
+patrzeć	lukin
+widzieć	lukin
+szukać	lukin
+dziura	lupa
+drzwi	lupa
+okno	lupa
+ziemia	ma
+grunt	ma
+na dworze	ma
+terytorium	ma
+rodzic	mama
+przodek	mama
+twórca	mama
+źródło	mama
+pieniądz	mani
+duże	mani
+udomowione zwierzę (pet)	mani
+kobieta	meli
+żeński	meli
+żona	meli
+przeciętny	meso
+średni	meso
+środek	meso
+ja	mi
+mnie	mi
+my	mi
+nas	mi
+mężczyzna	mije
+męski	mije
+mąż	mije
+lekarstwo	misikeke
+lek na coś	misikeke
+jedzenie	moku
+danie	moku
+jeść	moku
+śmierć	moli
+umrzeć	moli
+umierający	moli
+tył	monsi
+plecy	monsi
+tyłek	monsi
+strach	monsuta
+potwór	monsuta
+straszny	monsuta
+dźwięk wydawany przez zwierzę	mu
+księżyc	mun
+gwiazda	mun
+ciało niebieskie	mun
+rozrywkowy	musi
+artystyczny	musi
+zabawa	musi
+gra	musi
+wiele	mute
+dużo	mute
+ilość	mute
+hmm...	n
+ymm...	n
+przyprawa	namako
+dodatkowy (polepszając)	namako
+liczba	nanpa
+osobliwy	nasa
+dziwny	nasa
+szalony	nasa
+pijany	nasa
+ścieżka	nasin
+droga	nasin
+reguła	nasin
+sposób	nasin
+wzgórze	nena
+góra	nena
+przycisk	nena
+wypukłość	nena
+nos	nena
+to	ni
+tamto	ni
+słowo	nimi
+wyraz	nimi
+imię	nimi
+noga	noka
+stopa	noka
+dół	noka
+spód	noka
+pod	noka
+"hej ty"	o
+oko	oko
+miłość	olin
+kochać	olin
+współczucie	olin
+sympatia	olin
+on	ona
+ona	ona
+ono	ona
+go	ona
+ją	ona
+rozpocząć	open
+otworzyć	open
+otwarty	open
+niszczyć	pakala
+psuć	pakala
+pomyłka	pakala
+przekleństwo (jak: "kurczę", "w dupę")	pakala
+robić	pali
+pracować	pali
+działać	pali
+praca	pali
+podłużny (p)	palisa
+twardy przedmiot (p)	palisa
+gałąź	palisa
+kij	palisa
+chleb	pan
+ziarno	pan
+kukurydza	pan
+ryż	pan
+pizza	pan
+pszenica	pan
+dawać	pana
+wysyłać	pana
+emitować	pana
+nadawać	pana
+serce	pilin
+uczucie	pilin
+dotyk	pilin
+zmysł	pilin
+czarny	pimeja
+ciemny	pimeja
+skończyć	pini
+koniec	pini
+zamknąć	pini
+owad	pipi
+robak	pipi
+insekt	pipi
+biodro	poka
+bok	poka
+obok	poka
+w pobliżu	poka
+koło (okolica)	poka
+pudełko	poki
+zbiornik	poki
+miska	poki
+filiżanka	poki
+szuflada	poki
+dobry	pona
+łatwy	pona
+ulepszać	pona
+naprawić	pona
+oficjalna książka toki pony	pu
+taki sam	sama
+podobny	sama
+rodzeństwo	sama
+ciepło	seli
+żar	seli
+reakcja chemiczna	seli
+zewnętrze	selo
+otulina	selo
+skóra	selo
+granica	selo
+u góry	sewi
+niebo	sewi
+boski	sewi
+święty	sewi
+koło (kształt)	sike
+okrągły	sike
+piłka	sike
+rok	sike
+nowy	sin
+dodatkowy	sin
+świeży	sin
+ty	sina
+ciebie	sina
+wy	sina
+was	sina
+twarz	sinpin
+przód	sinpin
+ściana	sinpin
+obraz	sitelen
+symbol	sitelen
+napis	sitelen
+rysować	sitelen
+pisać (chyba)	sitelen
+grzyb	soko
+wiedza	sona
+wiedzieć	sona
+umieć	sona
+ssak lądowy	soweli
+zwierzę	soweli
+duży	suli
+ważny	suli
+rosnąć	suli
+powiększyć	suli
+słońce	suno
+światło	suno
+jasność	suno
+błysk	suno
+powierzchnia pozioma	supa
+słodki	suwi
+uroczy	suwi
+z	tan
+ponieważ	tan
+powód	tan
+przyczyna	tan
+ale	taso
+jednak	taso
+tylko	taso
+do	tawa
+ku czemuś	tawa
+dla	tawa
+ruch	tawa
+woda	telo
+ciecz	telo
+nawadniać	telo
+czyścić	telo
+czas	tenpo
+moment	tenpo
+raz (jeden/dwa)	tenpo
+mówić	toki
+mowa	toki
+język	toki
+dom	tomo
+pokój	tomo
+budowla	tomo
+niebinarny	tonsi
+transpłciowy	tonsi
+dwa	tu
+dzielić (t)	tu
+podzielony	tu
+związek	unpa
+usta	uta
+wargi	uta
+wojna	utala
+walczyć	utala
+wyzwanie	utala
+biały	walo
+jasny	walo
+jeden	wan
+część	wan
+zjednoczony	wan
+unia	wan
+ptak	waso
+coś co lata	waso
+mocny	wawa
+silny	wawa
+nieobecny	weka
+daleki	weka
+odsunąć	weka
+pozbyć się	weka
+chcieć	wile
+potrzeba	wile
+pragnienie	wile
