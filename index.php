@@ -202,12 +202,12 @@
 			<p>zostało w talii: <?=sizeof($_SESSION['current'])?></p>
 		</main>
 		<footer>
-			by <a href="https://pbp.one.pl" target="_blank">ggn</a>.<br>v. \frac{∂(&alpha;x-y)}{∂x}<br>strona uzywa zmienne sesyjne dla przechowywania pojedynczej talii słów. nie przechowuje zadnych informacji mogących zindentyfikowac uzytkownika. <br><a href="https://github.com/gegangene/quizgeg" target="_blank">repo na githubie</a> <span class="greyText">(na razie nie ma bo muszę ucywilizować kod)</span>
+			by <a href="https://pbp.one.pl" target="_blank">ggn</a>.<br>v. \frac{∂(&alpha;x-y)}{∂x}<br>strona uzywa zmienne sesyjne dla przechowywania pojedynczej talii słów. nie przechowuje zadnych informacji mogących zindentyfikowac uzytkownika. <br><a href="https://github.com/gegangene/quizgeg" target="_blank">repo na githubie</a>
 		</footer>
 		<script>
-			function hvr(x)
+			function hvr(whatToDo)
 			{
-				document.getElementById("onClickMsg").style.display=x;
+				document.getElementById("onClickMsg").style.display=whatToDo;
 			}
 			document.getElementById("showYourself").addEventListener("click",function(){hvr("block")});
 			document.getElementById("close").addEventListener("click",function(){hvr("none")});
